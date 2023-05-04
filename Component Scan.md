@@ -94,7 +94,7 @@ public A(B a){
 
 ### 컴포넌트 스캔 기본 대상
 
-컴포넌트 스캔은 @Component뿐만 아니라 여러 대상도 푸함된다
+컴포넌트 스캔은 @Component뿐만 아니라 여러 대상도 포함된다
 
 - @Component: 컴포넌트 스캔에 사용
 - @Controller: 스프링 MVC 컨트롤러에서 사용
